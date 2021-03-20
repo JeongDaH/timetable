@@ -59,7 +59,7 @@
       background-color: #E6E6FA;
   }
   #structure2{
-      background-color: #E6E6FA;
+      background-color: #E6E6F1;
   }
   #room{
       font-size: 0.1rem;
@@ -68,7 +68,7 @@
 </head>
 <body>
 <table width=400 height="400" style="color: #121212">
-<h1 id="title">▶   정다혜 ^∪^시간표  ◀</h1>
+<h1 id="title">▶   정다혜 A+ 시간표  ◀</h1>
   <tr width=19%>
     <th></th>
     <th>월</th>
